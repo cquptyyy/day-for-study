@@ -1,1 +1,2 @@
-# day-for-study
+# day-for-stud
+sgahsgajsgajhsgjy
