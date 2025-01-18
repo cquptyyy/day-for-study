@@ -1,0 +1,7 @@
+#include "ProcessOn.h"
+#include <iostream>
+using namespace std;
+int main(){
+    Process();
+    return 0;
+}
